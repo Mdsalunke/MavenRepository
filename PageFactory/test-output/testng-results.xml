@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-17T20:12:57 IST" name="Default suite" finished-at="2022-08-17T20:13:10 IST" duration-ms="12898">
+    <groups>
+    </groups>
+    <test started-at="2022-08-17T20:12:57 IST" name="Default test" finished-at="2022-08-17T20:13:10 IST" duration-ms="12898">
+      <class name="tests.SetUp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SetUp@5f058f00]" started-at="2022-08-17T20:12:57 IST" name="setup" finished-at="2022-08-17T20:13:02 IST" duration-ms="5269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigate_to_homepage_click_on_getstarted()[pri:1, instance:tests.SetUp@5f058f00]" started-at="2022-08-17T20:13:02 IST" name="navigate_to_homepage_click_on_getstarted" finished-at="2022-08-17T20:13:10 IST" duration-ms="7241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_homepage_click_on_getstarted -->
+        <test-method signature="enter_userDetails()[pri:2, instance:tests.SetUp@5f058f00]" started-at="2022-08-17T20:13:10 IST" name="enter_userDetails" finished-at="2022-08-17T20:13:10 IST" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enter_userDetails -->
+      </class> <!-- tests.SetUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
